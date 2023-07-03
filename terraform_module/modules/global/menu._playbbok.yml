@@ -1,0 +1,6 @@
+-name firstplay
+-node all
+-task
+  -name firsttask
+  apt:
+   name: openjd
